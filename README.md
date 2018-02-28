@@ -1,5 +1,5 @@
 # gulp-bower-bootstrap4-fontawesome5
-Gulp Automation using Bower, Bootstrap4 , fontawesome5
+Gulp Automation using Bower, Bootstrap4 , fontawesome5 , Browser Sync
 
 
 ## Installation
