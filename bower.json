@@ -1,0 +1,24 @@
+{
+  "name": "gulp-bower-bootstrap4-fontawesome5",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "Chamara S Weerasinghe"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "bootstrap": "^4.0.0",
+    "fontawesome": "Font-Awesome#^5.0.7"
+    
+  }
+}
