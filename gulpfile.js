@@ -31,8 +31,9 @@ gulp.task('serve', function() {
 
 
 gulp.task('bower', function() {
-    return bower()
-        .pipe(gulp.dest(config.bowerDir))
+    //return bower()
+    return bower({ directory: config.bowerDir })
+        .pipe(gulp.dest(config.bowerDir))     
 });
 
 gulp.task('icons', function() {
